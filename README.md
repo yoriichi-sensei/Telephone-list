@@ -1,2 +1,0 @@
-# Telephone-list
-Test project 
